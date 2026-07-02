@@ -15,7 +15,7 @@ Welcome to my central portfolio hub. I am an incoming high school senior and fut
 *As I complete weekly sprints, my project repositories will be linked below:*
 
 ### Phase 1: Core IT Systems & Networking
-* `[itsec-linux-cli]` - *(Coming Soon)*
+* `[itsec-linux-cli]` - (https://github.com/agilameer28/itsec-linux-cli)- *(Completed)*
 * `[itsec-network-fundamentals]` - *(Coming Soon)*
 * `[itsec-osint-recon]` - *(Coming Soon)*
 * `[itsec-packet-analysis]` - *(Coming Soon)*
