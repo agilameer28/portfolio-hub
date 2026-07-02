@@ -4,7 +4,7 @@ Welcome to my central portfolio hub. I am an incoming high school senior and fut
 
 ## 🔗 Professional Links
 * **LinkedIn:** (https://www.linkedin.com/in/ameer-agil-031633411/)
-* **Resume:** [We will link a PDF here later]
+* **Resume:** 
 
 ## 🎯 Current Objectives
 * Mastering core IT systems, Linux administration, and network troubleshooting.
