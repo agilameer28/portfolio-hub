@@ -3,7 +3,7 @@
 Welcome to my central portfolio hub. I am an incoming high school senior and future BSCS (Digital Forensics) student building hands-on experience in IT infrastructure, networking, and blue-team security.
 
 ## 🔗 Professional Links
-* **LinkedIn:** https://www.linkedin.com/in/ameer-agil-031633411/
+* **LinkedIn:** (https://www.linkedin.com/in/ameer-agil-031633411/)
 * **Resume:** [We will link a PDF here later]
 
 ## 🎯 Current Objectives
