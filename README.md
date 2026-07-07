@@ -14,11 +14,12 @@ Welcome to my central portfolio hub. I am an high school senior and future BSCS 
 ## 🗂️ Project Directory
 *As I complete weekly sprints, my project repositories will be linked below:*
 
-### Phase 1: Core IT Systems & Networking
+### Core IT Systems & Networking
 * `[itsec-linux-cli]` - (https://github.com/agilameer28/itsec-linux-cli)- *(Completed)*
 * `[itsec-network-fundamentals]` - (https://github.com/agilameer28/itsec-network-fundamentals) *(Completed)*
 * `[itsec-osint-recon]` - (https://github.com/agilameer28/itsec-osint-recon) *(Completed)*
 * `[itsec-iam-policies]` - (https://github.com/agilameer28/itsec-iam-policies) *(Completed)*
+* `[itsec-linux-log-audit]` - (https://github.com/agilameer28/itsec-linux-log-audit) *(Completed)*
 
 ---
 *Note: All projects are executed in 100% browser-based/cloud environments.*
