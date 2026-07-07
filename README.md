@@ -16,7 +16,7 @@ Welcome to my central portfolio hub. I am an high school senior and future BSCS 
 
 ### Phase 1: Core IT Systems & Networking
 * `[itsec-linux-cli]` - (https://github.com/agilameer28/itsec-linux-cli)- *(Completed)*
-* `[itsec-network-fundamentals]` - (https://github.com/agilameer28/itsec-linux-cli) *(Completed)*
+* `[itsec-network-fundamentals]` - (https://github.com/agilameer28/itsec-network-fundamentals) *(Completed)*
 * `[itsec-osint-recon]` - (https://github.com/agilameer28/itsec-osint-recon) *(Completed)*
 * `[itsec-iam-policies]` - (https://github.com/agilameer28/itsec-iam-policies) *(Completed)*
 
