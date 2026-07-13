@@ -22,6 +22,6 @@ Welcome to my central portfolio hub. I am an high school senior and future BSCS 
 * `[itsec-linux-log-audit]` - (https://github.com/agilameer28/itsec-linux-log-audit) *(Completed)*
 
 ### Cloud Security & Web Architecture
-* `[]` - ()- *()*
+* `[itsec-cloud-s3-security]` - (https://github.com/agilameer28/itsec-cloud-s3-security)- *(Completed)*
 ---
 *Note: All projects are executed in 100% browser-based/cloud environments.*
