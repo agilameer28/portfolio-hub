@@ -15,7 +15,7 @@ Welcome to my central portfolio hub. I am an high school senior and future BSCS 
 *As I complete weekly sprints, my project repositories will be linked below:*
 
 ### Core IT Systems & Networking
-* `[itsec-linux-cli]` - (https://github.com/agilameer28/itsec-linux-cli)- *(Completed)*
+* `[itsec-linux-cli]` - (https://github.com/agilameer28/itsec-linux-cli) *(Completed)*
 * `[itsec-network-fundamentals]` - (https://github.com/agilameer28/itsec-network-fundamentals) *(Completed)*
 * `[itsec-osint-recon]` - (https://github.com/agilameer28/itsec-osint-recon) *(Completed)*
 * `[itsec-iam-policies]` - (https://github.com/agilameer28/itsec-iam-policies) *(Completed)*
@@ -24,5 +24,6 @@ Welcome to my central portfolio hub. I am an high school senior and future BSCS 
 ### Cloud Security & Web Architecture
 * `[itsec-cloud-s3-security]` - (https://github.com/agilameer28/itsec-cloud-s3-security) *(Completed)*
 * `[itsec-azure-conditional-access]` - (https://github.com/agilameer28/itsec-azure-conditional-access) *(Completed)*
+* `[itsec-web-sqli-remediation]` - (https://github.com/agilameer28/itsec-web-sqli-remediation) *(Completed)*
 ---
 *Note: All projects are executed in 100% browser-based/cloud environments.*
