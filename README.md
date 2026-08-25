@@ -25,5 +25,8 @@ Welcome to my central portfolio hub. I am an high school senior and future BSCS 
 * `[itsec-cloud-s3-security]` - (https://github.com/agilameer28/itsec-cloud-s3-security) *(Completed)*
 * `[itsec-azure-conditional-access]` - (https://github.com/agilameer28/itsec-azure-conditional-access) *(Completed)*
 * `[itsec-web-sqli-remediation]` - (https://github.com/agilameer28/itsec-web-sqli-remediation) *(Completed)*
+
+### Security Operations & Incident Response (DFIR)
+* `[itsec-soc-phishing-analysis]` - (https://github.com/agilameer28/itsec-soc-phishing-analysis) *(Completed)*
 ---
 *Note: All projects are executed in 100% browser-based/cloud environments.*
